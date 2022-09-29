@@ -165,6 +165,27 @@
         "ecology",
         "environmental-science"
       ]
+    },
+    {
+      "name": "data-007",
+      "description": "Dataset of butterflies",
+      "tasks": [
+        "classification"
+      ],
+      "domains": [
+        "computer-vision",
+        "ecology"
+      ],
+      "url": "https://github.com/devinamhn/butterfly_repo",
+      "format": "image",
+      "labels_provided": true,
+      "institution": [
+        "Alan Turing"
+      ],
+      "tags": [
+        "ecology",
+        "environmental-science"
+      ]
     }
   ]
 }
